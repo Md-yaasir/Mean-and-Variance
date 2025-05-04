@@ -1,10 +1,9 @@
 ```c
-Name: Mohammed Yaasir .Y
-Reg No: 212224040196
+NAME : Mohammed Yaasir .Y
+REG-NO : 212224040196
+DATE :
 ```
-#  EXP-1 : Mean and variance of a discrete  distribution
-
-# Date : 
+#  EXP-1 : Mean and variance of a discrete  distribution 
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
