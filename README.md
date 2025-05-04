@@ -1,8 +1,8 @@
+ 
+## EXP-1 : Mean and variance of a discrete  distribution
 # NAME : MOHAMMED YAASIR .Y
 # REG-NO : 212224040196
-# DATE : 
-## EXP-1 : Mean and variance of a discrete  distribution
-
+# DATE :
 
 # Aim : 
 
